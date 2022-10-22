@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sahaj Pareek
 - 👀 I’m interested in anything and everyrthing about data.
 - 🌱 I’m currently learning Hadoop and Apache Spark
-- 💞️ I’m looking to collaborate on exciting open source projects especially in the field of genetics, neuroscience and psychology
+- 💞️ I’m looking to collaborate on exciting open source projects especially in the field of genetics, neuroscience, material science and psychology
 - 📫 How to reach me - sahaj.pareek16@gmail.com
 
 <!---
